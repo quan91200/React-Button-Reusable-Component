@@ -40,7 +40,7 @@ const Button = ({
         small: "px-3 py-1 text-sm",
         medium: "px-4 py-2 text-base",
         large: "px-5 py-3 text-lg",
-        full: "w-full px-6 py-4 text-xl",
+        full: "w-full px-4 py-2 text-xl",
         circle: "w-12 h-12 rounded-full flex items-center justify-center"
     }
 
